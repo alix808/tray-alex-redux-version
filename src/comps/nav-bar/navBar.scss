@@ -1,0 +1,20 @@
+.flex-container {
+  display: flex;
+}
+
+.flex-item {
+  background: #fff;
+  border: #ccc solid 1px;
+  padding: 1rem;
+  text-align: center;
+  flex: 1;
+}
+
+a {
+  color: #333333;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #666;
+}

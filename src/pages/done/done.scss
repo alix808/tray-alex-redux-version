@@ -1,0 +1,16 @@
+.center-done {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 500px;
+}
+
+.center-done h2 {
+  color: #28a745;
+}
+
+.tick {
+  width: 250px;
+  height: 250px;
+}

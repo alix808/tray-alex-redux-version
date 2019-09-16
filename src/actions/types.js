@@ -1,0 +1,12 @@
+export const SET_LOADING = 'SET_LOADING';
+export const VALIDATE = 'VALIDATE';
+export const INVALID = 'INVALID';
+export const REGISTER_USER = 'REGISTER_USER';
+export const USER_PATH = 'USER_PATH';
+export const PRIVACY_PATH = 'PRIVACY_PATH';
+export const DONE_PATH = 'DONE_PATH';
+export const CHECK_BOX_ONE = 'CHECK_BOX_ONE';
+export const CHECK_BOX_TWO = 'CHECK_BOX_TWO';
+export const ALERT_ONE = 'ALERT_ONE';
+export const ALERT_TWO = 'ALERT_TWO';
+export const REMOVE_ALERT = 'REMOVE_ALERT';

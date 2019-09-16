@@ -1,0 +1,21 @@
+.flex-item-btn {
+  text-align: right;
+  padding-top: 0.5rem;
+}
+
+.submit {
+  display: inline-block;
+  background: #28a745;
+  color: #fff;
+  padding: 0.4rem 1.2rem;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  transition: opacity 0.2s ease-in;
+  outline: none;
+  opacity: 0.75;
+}
+
+.submit:hover {
+  opacity: 1;
+}
